@@ -1,3 +1,1 @@
-# Hello-World
-Just another repo
-Hi everyone!!
+Assignment-1.2: Pandas (for basic understanding) Practice Questions [Optional]
